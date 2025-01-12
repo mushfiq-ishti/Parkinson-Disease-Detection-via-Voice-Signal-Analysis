@@ -10,3 +10,5 @@ To check any plot, load the .mat file and run desired sections only.
 The GUI is in signals_project.mlapp file.
 
 The ParkinsonTester.m file was created to implement in GUI.
+
+Theoretical details are given in the Project Report.docx file
